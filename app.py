@@ -6,5 +6,5 @@ Hello *everybody!*
 
 Thanks for using Posit Connect Cloud!
 
-I hope this update gets published :)
+I made some changes on 12/18/2023!
 """)
