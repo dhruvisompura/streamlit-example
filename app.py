@@ -5,6 +5,4 @@ st.write("""
 Hello *everybody!*
 
 Thanks for using Posit Connect Cloud!
-
-I hope this update gets published :)
 """)
